@@ -6,7 +6,7 @@ This repository contains the practical experiments and implementations performed
 
 ## Student Details
 
-- **Name:** Dhanush Pallan
+- **Name:** Pallan Dhanush Guruswamy
 - **Roll No.:** 35
 - **UIN No.:** 231A038
 - **Subject:** Natural Language Processing (NLP)
